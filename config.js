@@ -43,29 +43,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 /*============== SOCIAL ==============*/
 
-//gini
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
+global.sig = 'https://instagram.com/'
 global.sgh = 'https://github.com/Mymzz'
-global.sgc = 'wa.me/60134406236'
+global.sgc = 'wa.me/601172381193'
+global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.snh = 'https://nhentai.net/g/365296/'
 
-/============== PAYMENT ==============/
+/*============== PAYMENT ==============*/
+global.pdana = 'gaada'
+global.povo = 'gaada'
+global.pgopay = 'gaada'
+global.ppulsa = '60147366955 maxis'
+global.ppulsa2 = '60147366955 maxis'
+global.psaweria = 'gaada'
 
-global.ewallet = '0134406236'
-
-/============== NOMOR ==============/
-
+/*============== NOMOR ==============*/
 global.nomorbot = '601172381193'
-global.nomorown = '60134406236'
-global.namebot = 'ShamTuru'
-global.nameown = 'Sham'
+global.nomorown = '601172381193'
+global.namebot = 'Turu'
+global.nameown = 'Turu'
 
 
-/============== STAFF ==============/
-
+/*============== STAFF ==============*/
 global.owner = [
   ['601172381193'],
   ['601172381193'],
-  ['601172381193', 'By TuruBotz🛌 ', true]
+  ['601172381193', 'TuruBotz🛌 !', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
