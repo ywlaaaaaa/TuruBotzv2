@@ -1,1 +1,2 @@
-p
+jan marah bang newbie nch
+
