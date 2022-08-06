@@ -44,9 +44,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/'
-global.sgh = 'https://github.com/Mymzz'
-global.sgc = 'wa.me/601172381193'
+global.sig = 'https://instagram.com/
+global.sgh = 'https://github.com/Mymszz'
+global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -61,15 +61,15 @@ global.psaweria = 'gaada'
 /*============== NOMOR ==============*/
 global.nomorbot = '601172381193'
 global.nomorown = '601172381193'
-global.namebot = 'Turu'
-global.nameown = 'Turu'
+global.namebot = 'TuruBotz🛌'
+global.nameown = 'TuruBotz🛌'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['601172381193'],
   ['601172381193'],
-  ['601172381193', 'TuruBotz🛌 !', true]
+  ['60147366955', 'TuruBotz🛌 !', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,15 +113,15 @@ global.APIKeys = { // APIKey Here
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
-/============== WATERMARK ==============/
+/*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = 'By TuruBotz' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺By Putbotz'
+global.wm = '© TuruBotz🛌' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺Sasyi By Putbotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 
 /*============== LOGO ==============*/
