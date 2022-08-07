@@ -4,7 +4,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let type = (args[0] || '').toLowerCase()
   let _type = (args[0] || '').toLowerCase()
 
-//------- NOMOR
+//------- NOMBOR
   let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
 • @${nomorown.split`@`[0]} •
@@ -20,12 +20,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Putbotz
+*ɴᴀᴍᴇ:* Sham
 *ᴀɢᴇ:* 15ᵗʰ
 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 1 Feb 2007
-*ᴀᴅᴅʀᴇss:* Malaysia, Selangor, Kajang
+*ʙɪʀᴛʜᴅᴀʏ:* 16 Jun 2007
+*ᴀᴅᴅʀᴇss:* Malaysia, Selangor, Kelana Jaya
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [100%]]
